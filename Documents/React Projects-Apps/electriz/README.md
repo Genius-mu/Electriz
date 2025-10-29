@@ -1,16 +1,64 @@
-# React + Vite
+# 🚀 Day 2/100 - React Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the **Day 2** project of my **100 Days Mission** to become a better Frontend Developer.  
+Today, I built a **Landing Page** using **React**, and learned how to use some essential React libraries and concepts to make the project cleaner and more efficient.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 What I Learned
 
-## React Compiler
+How to structure my code in the best way. I learnt how to use those react Libraries very well.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🧩 React Libraries Used:
 
-## Expanding the ESLint configuration
+- **Framer Motion** → For smooth animations and transitions.
+- **Lucide React** → For clean and beautiful icons.
+- **React Router DOM** → For page navigation and routing.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ⚙️ React Concept Used:
+
+- **useState Hook** → To store and manage my card data dynamically.
+
+---
+
+## 💡 What I Built
+
+I created a simple **Landing Page** with animated sections and reusable components.
+
+One cool thing I did was in the **Cards Section**:
+Instead of writing and styling each card manually, I stored all the card data (like title, description, and icon) inside an **array of objects** using `useState`.  
+Then, I used **`.map()`** to render each card dynamically — making my code cleaner, shorter, and easier to update later.
+
+---
+
+## 🧱 Tech Stack
+
+- React
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+- React Router DOM
+
+---
+
+## 📸 Preview
+
+[View Here](https://electriz.netlify.app/)
+
+---
+
+## 🗓 Mission Progress
+
+**Day 2 / 100 ✅**  
+Building consistently every day toward becoming a strong Frontend Developer.
+
+---
+
+## ⚡ Author
+
+**Mustapha Adegbite**  
+Frontend Developer | 100 Days Building Mission 🧠 in progress 💻
+
+🔗 [LinkedIn](https://www.linkedin.com/in/mustaphaadegbite/) | [GitHub](https://github.com/Genius-mu) | [Twitter](https://x.com/mustaphAdegbite)
+
+---
